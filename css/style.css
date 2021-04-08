@@ -27,9 +27,6 @@ header h3{
     text-transform: uppercase;
     font-style: initial;
     font-weight: lighter;
-
-
-
 }
 header nav{
     float: right;
@@ -44,10 +41,11 @@ header nav ul li img{
 }
 
 .lastTwo{
-    padding-left: 12px;
+    padding-left: 10px;
+    
 }
 .lastOne{
-    padding-left: 0px;
+    padding-left: 0px;padding-right: 20px;
 }
 
 .headerMain h1{
@@ -111,10 +109,46 @@ font-family: 'Lexend', sans-serif;
 font-family: 'Noto Serif', serif
  }
 
+ #two {
+
+     
+    list-style: none;
+    color: rgb(156, 151, 151);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Noto Serif', serif;
+    padding-left:500px;
+
+     }
+
+ footer{
 
 
- 
+    height: 350px;
+ }
+footer button{
+
+    margin-top: 30px;
+    margin-right: 13px;
+    float: right;
+    background-color:rgb(190, 101, 101);
+    border-color: rgb(190, 101, 101);
+   font-size:15px;color: white;
+   text-transform: uppercase;
+   padding: 15px 32px;
+}
 
 
- 
-    
+#copyright {
+    margin-top: 180px;
+    text-align: center;
+    color: gray;
+}
+
+    #log2{
+position: absolute;
+      top: 1800px;
+      left: 525px;
+        text-align: center;
+
+    }
